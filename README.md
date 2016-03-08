@@ -1,3 +1,4 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SimpleGCM-green.svg?style=true)](https://android-arsenal.com/details/1/3248)
 # SimpleGCM
 
 Simple Google Cloud Messaging(GCM) integration library for Android.
