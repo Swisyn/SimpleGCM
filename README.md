@@ -19,7 +19,7 @@ Receiving notification is only thing we care about, right?
 
 # Usage
 Add dependency and plugin to project level build.gradle.
-```
+```groovy
 dependencies {
     compile 'com.cuneytayyildiz:simplegcm:1.0'
 }
@@ -27,7 +27,7 @@ apply plugin: 'com.google.gms.google-services'
 ```
 
 Add classpath and repository to root level build.gradle.
-```
+```groovy
 dependencies {
     classpath 'com.google.gms:google-services:2.+'
 }
